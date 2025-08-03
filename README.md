@@ -28,5 +28,6 @@ Costliest Shipping Method: Delivery Truck ($51,971.94)
 Tools & Skills Applied
 SQL: Data extraction, filtering, grouping, and aggregation
 
-Recommendation Summary 
+Recommendation Summary
+
 For underperforming regions and customers, consider personalized marketing campaigns, localized promotions, and optimized shipping incentives. Streamline delivery modes to better reflect order urgency for improved customer satisfaction.
