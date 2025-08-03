@@ -11,11 +11,17 @@ Provided data-driven recommendations for improving revenue
 
 Key Findings
 Top Product Category: Technology ($5.98M in total sales)
+
 Best Performing Regions: West, Ontario, Prairie
+
 Least Performing Regions: Nunavut, Northwest Territories, Yukon
+
 Top Customer by Profit: Emily Phan ($34,005.44)
+
 Top Small Business Customer: Dennis Kane ($75,967.59)
+
 Top Corporate Customer by Order Count: Roy Skaria (773 orders)
+
 Costliest Shipping Method: Delivery Truck ($51,971.94)
 
 Tools & Skills Applied
