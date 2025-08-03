@@ -10,6 +10,7 @@ Evaluated customer segments (retail, corporate, and small business) for profitab
 Provided data-driven recommendations for improving revenue
 
 Key Findings
+
 Top Product Category: Technology ($5.98M in total sales)
 
 Best Performing Regions: West, Ontario, Prairie
